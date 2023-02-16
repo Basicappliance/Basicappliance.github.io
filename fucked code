@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,9 +27,6 @@
             <li>Knowledge and Skills</li>
             <li>Certifications</li>
             <li><a href="#">Class Projects</a></li>
-    </ul>
-
-</main>
 
 </nav>
 <div class="contact">
