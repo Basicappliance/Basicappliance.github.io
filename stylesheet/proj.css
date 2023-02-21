@@ -1,11 +1,11 @@
 HTML{
-    BACKGROUND-IMAGE: linear-gradiant(to bottom, white 0%, facd8a 100%);
+    BACKGROUND-IMAGE: linear-gradiant(to left, white 0%, facd8a 100%);
 }
 
 body{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 100%;
-    width: 1000px;
+    width: 90%;
     background-color: white;
     margin-left: 10px;
     margin: 15px auto;
@@ -18,6 +18,8 @@ body{
 a:focus,a:hover {
     font-style: italic;
     color: orangered;
+    border: 2px blue;
+    border-style: dotted solid;
 
 }
 
@@ -33,6 +35,16 @@ color: #800000;
 text-indent: 30px;
 }
 
+header img {
+    float: left
+}
+
 .shadow {
     text-shadow: 2px 2px 2px rgb(128,0,00);
+}
+
+article {
+    clear: left;
+    width: 70;
+    
 }
