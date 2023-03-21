@@ -23,10 +23,6 @@ a:focus,a:hover {
 
 }
 
-header{
-    clear: both;
-    border-bottom: 2px solid violet;
-
 header h1{
     font-size: 175%;
     color: rgb(76, 70, 198);
