@@ -29,7 +29,7 @@ article{
     margin-left: 1em;
 }
 
-article h2 {
+article h1 {
     column-span: all;
     clear: both;
     padding: 1.5em;
