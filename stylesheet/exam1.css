@@ -20,8 +20,13 @@
 #nav_menu ul li a.current { color: yellow; }
 
 article{
-    clear:both;
-
+    clear: left;
+    width: 70;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted rgb(54, 44, 188);
+    column-gap: 1em;
+    margin-left: 1em;
 }
 
 article h2 {
