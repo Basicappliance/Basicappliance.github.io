@@ -1,0 +1,34 @@
+#nav_menu ul { list-style-type: none; }
+#nav_menu ul li { float: left; }
+#nav_menu ul li a {
+    text-align: center;
+    padding: 10px 25px;
+    display: block;
+    background: rgb(105, 169, 238);
+    font-family: 'Tahoma';
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-right: 2px solid white; 
+    margin-bottom: 1em;}
+#nav_menu ul li a.lastitem { border-right: none; }  
+#nav_menu ul li a.current { color: yellow; 
+
+article{
+    clear:both;
+
+}
+
+artilce ol {
+    list-style-type: upper-roman;
+}
+
+aside Ul {
+    list-style-type: square;
+}
