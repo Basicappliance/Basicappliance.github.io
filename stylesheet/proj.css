@@ -25,13 +25,13 @@ a:focus,a:hover {
 
 header h1{
     font-size: 175%;
-    color: maroon;
+    color: rgb(76, 70, 198);
     text-indent: 30px;
 }
 
 header h2 {
 font-size: 130%;
-color: #800000;
+color: #1c41a5;
 text-indent: 30px;
 }
 
@@ -40,7 +40,7 @@ header img {
 }
 
 .shadow {
-    text-shadow: 2px 2px 2px rgb(128,0,00);
+    text-shadow: 2px 2px 2px rgb(128, 128, 207);
 }
 
 article {
