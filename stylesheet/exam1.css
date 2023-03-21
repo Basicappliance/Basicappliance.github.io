@@ -36,6 +36,12 @@ article h1 {
     border-top: 2px solid violet;
 }
 
+article img {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
 
 article ol {
     list-style-type: upper-roman;
