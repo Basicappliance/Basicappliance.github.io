@@ -51,6 +51,11 @@ article h1, h2 {
     color: blue;
 }
 
+article p::first-letter {
+    font: 3em bold italic;
+}
+
+
 article img {
     float: left;
     margin-right: 1em;
