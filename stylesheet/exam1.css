@@ -19,6 +19,18 @@
 #nav_menu ul li a.lastitem { border-right: none; }  
 #nav_menu ul li a.current { color: yellow; }
 
+body {
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 100%;
+    width: 95%;
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+}
+
 article {
     clear: left;
     width: 70;
@@ -36,17 +48,34 @@ article h1 {
     border-top: 2px solid violet;
 }
 
+article h1, h2 {
+    color: blue;
+}
+
 article img {
     float: left;
     margin-right: 1em;
     margin-bottom: 1em;
 }
 
+aside {
+    width: 20%;    
+    padding: 0.1em 1em 1em;
+    position: fixed;
+    top: 30%;
+    right: 0;
+    border: 4px solid darkblue;
+    background-color: lightblue;
+    padding: 1.5em;
+}
 
 article ol {
     list-style-type: upper-roman;
 }
 
+aside ul {
+    list-style-type:square;
+}
 
 footer{
     clear: both;
