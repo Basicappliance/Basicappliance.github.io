@@ -37,8 +37,8 @@ article {
     float: left;
     column-count: 3;
     column-rule: 2px dotted rgb(54, 44, 188);
-    column-gap: 1em;
-    margin-left: 1em;
+    column-gap: 2em;
+    margin-left: 2em;
 }
 
 article h1 {
