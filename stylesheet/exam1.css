@@ -44,6 +44,7 @@ article {
 article h1 {
     column-span: all;
     clear: both;
+    margin-top: 1.5em;
     border-top: 2px solid violet;
 }
 
