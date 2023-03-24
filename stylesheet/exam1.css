@@ -44,7 +44,7 @@ article {
 article h1 {
     column-span: all;
     clear: both;
-    padding-top: 1.5em;
+    padding-top: 1em;
     border-top: 3px solid violet;
 }
 
