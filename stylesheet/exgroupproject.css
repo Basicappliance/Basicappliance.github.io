@@ -24,7 +24,7 @@ article {
     clear: left;
     width: 75;
     float: left;
-    column-count: 3;
+    column-count: 4;
     column-rule: 3px dotted rgb(54, 44, 188);
     column-gap: 2em;
     margin-left: 2em;
