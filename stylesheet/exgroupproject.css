@@ -10,6 +10,8 @@ html {
     }
   
   .grid-container.fluid {
+    position: absolute;
+    height: 50px;
     padding-right: 0.9375rem;
     padding-left: 0.9375rem;
     max-width: 100%;
