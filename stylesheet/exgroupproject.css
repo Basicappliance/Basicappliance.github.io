@@ -37,6 +37,13 @@ body {
     padding: 5px;
   }
 
+  .column label,
+.column input,
+.column select {
+  display: block;
+  margin-bottom: 10px;
+}
+
   .row {
     margin-bottom: 20px;
   }
