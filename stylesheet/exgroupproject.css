@@ -7,6 +7,7 @@ html {
     color: #fff;
     background-color: #004990;
     background-color: rgb(0,73,144);
+    margin-bottom: 10px
     }
   
   .grid-container.fluid {
@@ -14,7 +15,7 @@ html {
     padding-right: 0.9375rem;
     padding-left: 0.9375rem;
     max-width: 100%;
-    margin: 0 auto;
+    margin-bottom: 10px;
 }
 
 .grid-x>.small-3 {
