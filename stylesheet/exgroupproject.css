@@ -36,8 +36,8 @@ body {
     float: left;
     width: 20%;
     padding: 5px;
-    column-gap: .25em;
-    margin-left: 1em;
+    column-gap: 2em;
+    margin-left: .5em;
   }
 
   .column label,
